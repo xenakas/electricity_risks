@@ -1,1 +1,6 @@
 \babel@toc {russian}{}
+\beamer@sectionintoc {1}{Intro}{2}{0}{1}
+\beamer@sectionintoc {2}{Price}{5}{0}{2}
+\beamer@sectionintoc {3}{Risks}{19}{0}{3}
+\beamer@sectionintoc {4}{Derivatives}{19}{0}{4}
+\beamer@sectionintoc {5}{Estimation}{19}{0}{5}
