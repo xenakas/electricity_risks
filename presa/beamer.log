@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2019.4.20)  10 OCT 2019 22:12
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2019/dev/Debian) (preloaded format=xelatex 2019.4.20)  27 OCT 2019 03:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1251,7 +1251,20 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'russian'.
-(./beamer.aux)
+(./beamer.aux
+
+LaTeX Warning: Label `fig:screenshot009' multiply defined.
+
+
+LaTeX Warning: Label `fig:screenshot006' multiply defined.
+
+
+LaTeX Warning: Label `fig:screenshot009' multiply defined.
+
+
+LaTeX Warning: Label `fig:screenshot009' multiply defined.
+
+)
 \openout1 = `beamer.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
@@ -1433,95 +1446,101 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ]
 
 Class beamer Warning: Frame text is shrunk by a factor of 8.06427 percent inste
-ad of 3 percent on input line 121.
+ad of 3 percent on input line 130.
 
 [3
 
 ]
-Overfull \hbox (30.39276pt too wide) in paragraph at lines 183--183
+File: screenshot003.png Graphic file (type bmp)
+<screenshot003.png>
+ [4
+
+]
+File: screenshot009.png Graphic file (type bmp)
+<screenshot009.png>
+ [5
+
+]
+File: screenshot010.png Graphic file (type bmp)
+<screenshot010.png>
+ [6
+
+]
+Overfull \hbox (30.39276pt too wide) in paragraph at lines 235--235
  [] 
  []
 
 
 Class beamer Warning: Frame text is shrunk by a factor of 9.1507 percent instea
-d of 5 percent on input line 183.
+d of 5 percent on input line 235.
 
-[4
+[7
+
+]
+
+Class beamer Warning: Frame text is shrunk by a factor of 16.69464 percent inst
+ead of 5 percent on input line 275.
+
+[8
 
 ]
 
-Class beamer Warning: Frame text is shrunk by a factor of 20.7016 percent inste
-ad of 5 percent on input line 223.
-
-[5
-
-]
-File: screenshot005.png Graphic file (type bmp)
-<screenshot005.png>
-
-
-Class beamer Warning: Frame text is shrunk by a factor of 9.1507 percent instea
-d of 5 percent on input line 249.
-
-[6
-
-]
-File: screenshot006.png Graphic file (type bmp)
-<screenshot006.png>
- [7
-
-] [8
-
-]
-File: screenshot007.png Graphic file (type bmp)
-<screenshot007.png>
-
-
-Class beamer Warning: Frame text is shrunk by a factor of 7.69653 percent inste
-ad of 5 percent on input line 312.
+Class beamer Warning: Frame text is shrunk by a factor of 8.79059 percent inste
+ad of 5 percent on input line 323.
 
 [9
 
 ] [10
 
 ]
-File: screenshot008.png Graphic file (type bmp)
-<screenshot008.png>
- [11
+
+Class beamer Warning: Frame text is shrunk by a factor of 13.2492 percent inste
+ad of 5 percent on input line 363.
+
+[11
 
 ] [12
 
-] [13
-
-] [14
+]
+File: screenshot005.png Graphic file (type bmp)
+<screenshot005.png>
+ [13
 
 ]
+File: screenshot012.png Graphic file (type bmp)
+<screenshot012.png>
+ [14
 
-Class beamer Warning: Frame text is shrunk by a factor of 13.2492 percent inste
-ad of 5 percent on input line 421.
-
-[15
-
-] [16
-
-] [17
+]
+File: screenshot006.png Graphic file (type bmp)
+<screenshot006.png>
+ [15
 
 ]
 File: screenshot004.png Graphic file (type bmp)
 <screenshot004.png>
- [18
+ [16
+
+] [17
+
+] [18
 
 ] [19
 
 ]
-File: screenshot003.png Graphic file (type bmp)
-<screenshot003.png>
+File: screenshot009.png Graphic file (type bmp)
+<screenshot009.png>
  [20
 
 ]
-File: screenshot002.png Graphic file (type bmp)
-<screenshot002.png>
+File: screenshot010.png Graphic file (type bmp)
+<screenshot010.png>
  [21
+
+]
+File: screenshot011.png Graphic file (type bmp)
+<screenshot011.png>
+ [22
 
 ]
 \tf@nav=\write6
@@ -1533,23 +1552,28 @@ File: screenshot002.png Graphic file (type bmp)
 \tf@snm=\write8
 \openout8 = `beamer.snm'.
 
- 
+
+
 AED: lastpage setting LastPage
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 637.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 637.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 784.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 784.
 (./beamer.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 637.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 637.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 784.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 784.
 Package rerunfilecheck Info: File `beamer.out' has not changed.
 (rerunfilecheck)             Checksum: 30D43EBED7CA3F4FE664B91DEEA1E137.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 34133 strings out of 492912
- 671113 string characters out of 6134893
- 792045 words of memory out of 5000000
- 37614 multiletter control sequences out of 15000+600000
+ 34138 strings out of 492912
+ 671191 string characters out of 6134893
+ 791087 words of memory out of 5000000
+ 37618 multiletter control sequences out of 15000+600000
  539229 words of font info for 74 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  56i,15n,95p,784b,563s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on beamer.pdf (21 pages).
+Output written on beamer.pdf (22 pages).
