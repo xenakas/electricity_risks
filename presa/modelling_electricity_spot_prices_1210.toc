@@ -1,0 +1,5 @@
+\babel@toc {russian}{}
+\beamer@sectionintoc {1}{Введение}{2}{0}{1}
+\beamer@sectionintoc {2}{Российский рынок}{5}{0}{2}
+\beamer@sectionintoc {3}{Факторы}{21}{0}{3}
+\beamer@sectionintoc {4}{Модели}{27}{0}{4}

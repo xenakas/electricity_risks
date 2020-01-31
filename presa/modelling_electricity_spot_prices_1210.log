@@ -1,9 +1,9 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2019.11.21)  31 JAN 2020 11:58
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/Debian) (preloaded format=xelatex 2019.11.21)  29 JAN 2020 15:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**beamer.tex
-(./beamer.tex
+**modelling_electricity_spot_prices_1210.tex
+(./modelling_electricity_spot_prices_1210.tex
 LaTeX2e <2018-12-01>
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamer.cls
 Document Class: beamer 2018/12/02 v3.55 A class for typesetting presentations
@@ -1243,117 +1243,57 @@ Package: todo 2010/03/31 v2.4142 To-do list (Federico Garcia)
 \c@todo=\count365
 )
 (/usr/share/texlive/texmf-dist/tex/latex/beamer/beamerfontthemeprofessionalfont
-s.sty)) (/usr/share/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
-Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
-
-(/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
-Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
-)
-\CenteringLeftskip=\skip78
-\RaggedLeftLeftskip=\skip79
-\RaggedRightLeftskip=\skip80
-\CenteringRightskip=\skip81
-\RaggedLeftRightskip=\skip82
-\RaggedRightRightskip=\skip83
-\CenteringParfillskip=\skip84
-\RaggedLeftParfillskip=\skip85
-\RaggedRightParfillskip=\skip86
-\JustifyingParfillskip=\skip87
-\CenteringParindent=\skip88
-\RaggedLeftParindent=\skip89
-\RaggedRightParindent=\skip90
-\JustifyingParindent=\skip91
-)
+s.sty))
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\\' on input line 16.
+(hyperref)                removing `\\' on input line 15.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 16.
+(hyperref)                removing `\new@ifnextchar' on input line 15.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\smallskipamount' on input line 16.
+(hyperref)                removing `\smallskipamount' on input line 15.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\new@ifnextchar' on input line 16.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\bigskipamount' on input line 16.
-
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
-Package: caption 2018/10/06 v3.3-154 Customizing captions (AR)
-
-(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
-Package: caption3 2018/09/12 v1.8c caption3 kernel (AR)
-Package caption3 Info: TeX engine: e-TeX on input line 64.
-\captionmargin=\dimen327
-\captionmargin@=\dimen328
-\captionwidth=\dimen329
-\caption@tempdima=\dimen330
-\caption@indent=\dimen331
-\caption@parindent=\dimen332
-\caption@hangindent=\dimen333
-)
-Package caption Info: We need package `newfloat' on input line 289.
-
-(/usr/share/texlive/texmf-dist/tex/latex/caption/newfloat.sty
-Package: newfloat 2018/03/04 v1.1a Defining new floating environments (AR)
-)
-\c@caption@flags=\count366
-\c@ContinuedFloat=\count367
-Package caption Info: beamer document class.
-Package caption Info: hyperref package is loaded.
-Package caption Info: Hyperref support is turned off
-(caption)             because hyperref has stopped early.
-Package caption Info: longtable package is loaded.
-
-(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
-Package: ltcaption 2018/08/26 v1.4-95 longtable captions (AR)
-)
-Package caption Info: wrapfig package is loaded.
-)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'russian'.
- (./beamer.aux
+(./modelling_electricity_spot_prices_1210.aux
+
+LaTeX Warning: Label `fig:screenshot015' multiply defined.
+
+
+LaTeX Warning: Label `fig:screenshot015' multiply defined.
+
+
+LaTeX Warning: Label `fig:screenshot009' multiply defined.
+
 
 LaTeX Warning: Label `fig:screenshot006' multiply defined.
 
-
-LaTeX Warning: Label `key' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot015' multiply defined.
-
-
-LaTeX Warning: Label `fig:screenshot015' multiply defined.
-
 )
-\openout1 = `beamer.aux'.
+\openout1 = `modelling_electricity_spot_prices_1210.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
@@ -1391,7 +1331,7 @@ LaTeX Font Info:    ... okay on input line 34.
 
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box107
-Package hyperref Info: Link coloring ON on input line 34.
+Package hyperref Info: Link coloring ON on input line 30.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1399,15 +1339,16 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count368
+\c@section@level=\count366
 )
-LaTeX Info: Redefining \ref on input line 34.
-LaTeX Info: Redefining \pageref on input line 34.
-LaTeX Info: Redefining \nameref on input line 34.
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+LaTeX Info: Redefining \nameref on input line 30.
 
-(./beamer.out) (./beamer.out)
+(./modelling_electricity_spot_prices_1210.out)
+(./modelling_electricity_spot_prices_1210.out)
 \@outlinefile=\write5
-\openout5 = `beamer.out'.
+\openout5 = `modelling_electricity_spot_prices_1210.out'.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
@@ -1440,210 +1381,209 @@ Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 34.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 34.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 34.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 34.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 34.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 34.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 34.
-LaTeX Font Info:    Redeclaring math accent \check on input line 34.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 34.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 34.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 34.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 34.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 34.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 30.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 30.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 30.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 30.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 30.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 30.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 30.
+LaTeX Font Info:    Redeclaring math accent \check on input line 30.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 30.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 30.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 30.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 30.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 34.
+(Font)              `operators' in the math version `normal' on input line 30.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/Arial(0)/m/n on input line 34.
+(Font)                  OT1/cmr/m/n --> TU/Arial(0)/m/n on input line 30.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 34.
+(Font)              `operators' in the math version `bold' on input line 30.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/Arial(0)/m/n on input line 34.
+(Font)                  OT1/cmr/bx/n --> TU/Arial(0)/m/n on input line 30.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/m/n on input line 34.
+(Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/m/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/Arial(0)/m/it on input line 34.
+(Font)                  OT1/cmr/m/it --> TU/Arial(0)/m/it on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/Arial(0)/bx/n on input line 34.
+(Font)                  OT1/cmr/bx/n --> TU/Arial(0)/bx/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/Arial(1)/m/n on input line 34.
+(Font)                  OT1/cmss/m/n --> TU/Arial(1)/m/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/Arial(2)/m/n on input line 34.
+(Font)                  OT1/cmtt/m/n --> TU/Arial(2)/m/n on input line 30.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/bx/n on input line 34.
+(Font)                  TU/Arial(0)/m/n --> TU/Arial(0)/bx/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/Arial(0)/bx/it on input line 34.
+(Font)                  OT1/cmr/bx/it --> TU/Arial(0)/bx/it on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/Arial(1)/bx/n on input line 34.
+(Font)                  OT1/cmss/bx/n --> TU/Arial(1)/bx/n on input line 30.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/Arial(2)/bx/n on input line 34.
+(Font)                  OT1/cmtt/m/n --> TU/Arial(2)/bx/n on input line 30.
 Package lastpage Info: Please have a look at the pageslts package at
 (lastpage)             https://www.ctan.org/pkg/pageslts
-(lastpage)             ! on input line 34.
- ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 34.
-Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: End \AtBeginDocument code.
- (./beamer.nav)
+(lastpage)             ! on input line 30.
+ (./modelling_electricity_spot_prices_1210.nav)
 File: logo1.png Graphic file (type bmp)
 <logo1.png>
 File: logo2.png Graphic file (type bmp)
 <logo2.png>
-
-[1
+ [1
 
 ]
-LaTeX Font Info:    Try loading font information for U+msa on input line 71.
- (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+LaTeX Font Info:    Try loading font information for U+msa on input line 72.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 71.
+LaTeX Font Info:    Try loading font information for U+msb on input line 72.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [2
 
 ]
-File: screenshot034.png Graphic file (type bmp)
-<screenshot034.png>
 
-
-Class beamer Warning: Frame text is shrunk by a factor of 6.1966 percent instea
-d of 5 percent on input line 125.
+Class beamer Warning: Frame text is shrunk by a factor of 16.99371 percent inst
+ead of 3 percent on input line 131.
 
 [3
 
 ] [4
 
-] [5
-
 ]
-File: untitled2.png Graphic file (type bmp)
-<untitled2.png>
- [6
+File: screenshot004.png Graphic file (type bmp)
+<screenshot004.png>
+ [5
 
-]
-Underfull \hbox (badness 2065) in paragraph at lines 218--218
-[]|\TU/Arial(1)/m/n/8 Эмпирическая оценка 
- []
-
-
-Overfull \hbox (2.59944pt too wide) in paragraph at lines 218--218
- [] 
- []
-
-[7
-
-] [8
-
-]
-
-Class beamer Warning: Frame text is shrunk by a factor of 5.42755 percent inste
-ad of 5 percent on input line 283.
-
-[9
-
-]
-
-Class beamer Warning: Frame text is shrunk by a factor of 14.21661 percent inst
-ead of 5 percent on input line 315.
-
-[10
-
-] [11
-
-]
-File: screenshot012.png Graphic file (type bmp)
-<screenshot012.png>
- [12
-
-]
-File: screenshot006.png Graphic file (type bmp)
-<screenshot006.png>
- [13
-
-]
-File: screenshot023.png Graphic file (type bmp)
-<screenshot023.png>
- [14
+] [6
 
 ]
 File: screenshot014.png Graphic file (type bmp)
 <screenshot014.png>
 
 
-Class beamer Warning: Frame text is shrunk by a factor of 10.55908 percent inst
-ead of 5 percent on input line 429.
+Class beamer Warning: Frame text is shrunk by a factor of 11.92474 percent inst
+ead of 5 percent on input line 220.
 
-[15
-
-]
-File: screenshot024.png Graphic file (type bmp)
-<screenshot024.png>
- [16
-
-]
-File: screenshot030.png Graphic file (type bmp)
-<screenshot030.png>
-File: screenshot031.png Graphic file (type bmp)
-<screenshot031.png>
-File: screenshot027.png Graphic file (type bmp)
-<screenshot027.png>
-File: screenshot029.png Graphic file (type bmp)
-<screenshot029.png>
- [17
-
-]
-File: screenshot032.png Graphic file (type bmp)
-<screenshot032.png>
-
-
-Class beamer Warning: Frame text is shrunk by a factor of 9.86023 percent inste
-ad of 5 percent on input line 504.
-
-[18
-
-]
-File: screenshot009.png Graphic file (type bmp)
-<screenshot009.png>
-File: screenshot010.png Graphic file (type bmp)
-<screenshot010.png>
-
-
-Class beamer Warning: Frame text is shrunk by a factor of 7.32574 percent inste
-ad of 5 percent on input line 542.
-
-[19
-
-] [20
-
-]
-
-Class beamer Warning: Frame text is shrunk by a factor of 17.29126 percent inst
-ead of 5 percent on input line 657.
-
-[21
+[7
 
 ]
 File: screenshot16.png Graphic file (type bmp)
 <screenshot16.png>
 
 
-Class beamer Warning: Frame text is shrunk by a factor of 9.60388 percent inste
-ad of 5 percent on input line 780.
+Class beamer Warning: Frame text is shrunk by a factor of 12.59155 percent inst
+ead of 5 percent on input line 244.
+
+[8
+
+]
+
+Class beamer Warning: Frame text is shrunk by a factor of 24.34235 percent inst
+ead of 5 percent on input line 261.
+
+[9
+
+]
+
+Class beamer Warning: Frame text is shrunk by a factor of 17.58728 percent inst
+ead of 5 percent on input line 281.
+
+[10
+
+]
+
+Class beamer Warning: Frame text is shrunk by a factor of 28.27606 percent inst
+ead of 5 percent on input line 302.
+
+[11
+
+]
+File: screenshot016.png Graphic file (type bmp)
+<screenshot016.png>
+File: screenshot017.png Graphic file (type bmp)
+<screenshot017.png>
+File: screenshot018.png Graphic file (type bmp)
+<screenshot018.png>
+File: screenshot019.png Graphic file (type bmp)
+<screenshot019.png>
+File: screenshot020.png Graphic file (type bmp)
+<screenshot020.png>
+ [12
+
+]
+File: screenshot021.png Graphic file (type bmp)
+<screenshot021.png>
+
+
+Class beamer Warning: Frame text is shrunk by a factor of 8.06427 percent inste
+ad of 5 percent on input line 352.
+
+[13
+
+]
+Overfull \hbox (90.19226pt too wide) in paragraph at lines 391--391
+ [] 
+ []
+
+
+Class beamer Warning: Frame text is shrunk by a factor of 33.10242 percent inst
+ead of 5 percent on input line 391.
+
+[14
+
+] [15
+
+]
+File: screenshot022.png Graphic file (type bmp)
+<screenshot022.png>
+
+
+Class beamer Warning: Frame text is shrunk by a factor of 10.90393 percent inst
+ead of 5 percent on input line 439.
+
+[16
+
+] [17
+
+]
+File: screenshot009.png Graphic file (type bmp)
+<screenshot009.png>
+ [18
+
+]
+File: screenshot010.png Graphic file (type bmp)
+<screenshot010.png>
+
+
+Class beamer Warning: Frame text is shrunk by a factor of 10.90393 percent inst
+ead of 5 percent on input line 559.
+
+[19
+
+]
+File: screenshot011.png Graphic file (type bmp)
+<screenshot011.png>
+ [20
+
+] [21
+
+]
+
+Class beamer Warning: Frame text is shrunk by a factor of 17.7597 percent inste
+ad of 5 percent on input line 618.
 
 [22
 
@@ -1653,58 +1593,85 @@ ad of 5 percent on input line 780.
 
 ] [25
 
+] [26
+
 ]
-Overfull \hbox (20.1969pt too wide) in paragraph at lines 868--868
+Overfull \hbox (30.39276pt too wide) in paragraph at lines 793--793
  [] 
  []
 
 
-Class beamer Warning: Frame text is shrunk by a factor of 30.9906 percent inste
-ad of 5 percent on input line 868.
-
-[26
-
-]
-File: screenshot022.png Graphic file (type bmp)
-<screenshot022.png>
-
-
-Class beamer Warning: Frame text is shrunk by a factor of 14.54773 percent inst
-ead of 5 percent on input line 918.
+Class beamer Warning: Frame text is shrunk by a factor of 9.1507 percent instea
+d of 5 percent on input line 793.
 
 [27
 
 ]
+
+Class beamer Warning: Frame text is shrunk by a factor of 16.69464 percent inst
+ead of 5 percent on input line 833.
+
+[28
+
+]
+
+Class beamer Warning: Frame text is shrunk by a factor of 8.79059 percent inste
+ad of 5 percent on input line 881.
+
+[29
+
+] [30
+
+]
+
+Class beamer Warning: Frame text is shrunk by a factor of 6.1966 percent instea
+d of 5 percent on input line 949.
+
+[31
+
+]
+File: screenshot012.png Graphic file (type bmp)
+<screenshot012.png>
+ [32
+
+]
+File: screenshot006.png Graphic file (type bmp)
+<screenshot006.png>
+ [33
+
+]
 \tf@nav=\write6
-\openout6 = `beamer.nav'.
+\openout6 = `modelling_electricity_spot_prices_1210.nav'.
 
 \tf@toc=\write7
-\openout7 = `beamer.toc'.
+\openout7 = `modelling_electricity_spot_prices_1210.toc'.
 
 \tf@snm=\write8
-\openout8 = `beamer.snm'.
+\openout8 = `modelling_electricity_spot_prices_1210.snm'.
 
  
 AED: lastpage setting LastPage
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 996.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 996.
-(./beamer.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 996.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 996.
-Package rerunfilecheck Info: File `beamer.out' has not changed.
-(rerunfilecheck)             Checksum: 3844DF5455FA4CE4BC08E0FBC7388406.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1144.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1144.
+(./modelling_electricity_spot_prices_1210.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 1144.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1144.
+
+Package rerunfilecheck Info: File `modelling_electricity_spot_prices_1210.out' 
+has not changed.
+(rerunfilecheck)             Checksum: D9AEC78C0AF7DC97B55F7CDC1C427C02.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 36246 strings out of 492909
- 712999 string characters out of 6135046
- 835600 words of memory out of 5000000
- 39694 multiletter control sequences out of 15000+600000
- 540814 words of font info for 85 fonts, out of 8000000 for 9000
+ 34944 strings out of 492909
+ 689281 string characters out of 6135046
+ 809433 words of memory out of 5000000
+ 38417 multiletter control sequences out of 15000+600000
+ 539237 words of font info for 75 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 56i,15n,95p,784b,604s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 56i,15n,95p,816b,569s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on beamer.pdf (27 pages).
+Output written on modelling_electricity_spot_prices_1210.pdf (33 pages).
